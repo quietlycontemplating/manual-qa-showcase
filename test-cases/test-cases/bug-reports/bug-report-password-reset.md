@@ -39,7 +39,7 @@ The form refreshes with no visible error or confirmation. No password reset emai
 
 ## 📸 Screenshots / Video
 
-_N/A for now — you can add one later if you simulate it._
+pending
 
 ---
 
