@@ -16,9 +16,9 @@ Welcome! This is a curated portfolio showcasing my manual QA work and systems th
 
 ## 🧠 Why This Exists
 
-I built this portfolio to show not just what I can do—but how I think.
+I built this portfolio to show not just what I can do, but how I think.
 
-With 6+ years in quality auditing, trust & safety, and CX operations, I bring both technical precision and a user-first mindset to QA. I believe good testers don't just catch bugs—they anticipate them.
+With 6+ years in quality auditing, trust & safety, and CX operations, I bring both technical precision and a user-first mindset to QA. I believe good testers don't just catch bugs, they anticipate them.
 
 ---
 
