@@ -1,4 +1,4 @@
-# 🧪 Test Case: User Login Flow
+# Test Case: User Login Flow
 
 **Test Case ID:** TC-001  
 **Feature:** User Login  
@@ -9,18 +9,18 @@
 
 ---
 
-## 🎯 Objective
+## Objective
 To verify that users can successfully log into the platform using valid credentials and receive appropriate errors for invalid input.
 
 ---
 
-## ✅ Preconditions
+## Preconditions
 - User has a registered account
 - User is on the login page
 
 ---
 
-## 🔄 Test Steps
+## Test Steps
 
 | Step # | Action | Expected Result |
 |--------|--------|-----------------|
