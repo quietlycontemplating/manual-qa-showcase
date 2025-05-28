@@ -1,24 +1,23 @@
-# manual-qa-showcase
-A simple QA portfolio featuring manual test cases, bug reports, and exploratory testing checklists.
-# Manual QA Portfolio – Sharnelle Guthrie
+# Manual QA Showcase
 
-Welcome! This is a curated portfolio showcasing my manual QA work and systems thinking. It includes test cases, bug reports, and exploratory testing checklists designed for startups and early-stage product teams.
+This repository highlights my hands-on learning and application of manual QA fundamentals, including:
 
----
+- 🧪 Structured Test Cases
+- 🐞 Real Bug Reports
+- 🔍 Exploratory Testing Checklists
 
-## 📁 What's Included
+These samples are based on real-world flows from public sites and my own projects (e.g., awakenyourinnerfire.com).
 
-- **/test-cases** – Realistic manual test cases (e.g., login form, contact form)
-- **/bug-reports** – Sample bug reports with steps to reproduce and severity tags
-- **/exploratory-checklists** – A checklist-style QA approach to common flows
+**Tools used:** Jira, Google Docs, Chrome DevTools
 
 ---
 
-## 🧠 Why This Exists
+## 🔧 Contents
 
-I built this portfolio to show not just what I can do, but how I think.
+- `test-cases/`: Structured functional test cases
+- `bug-reports/`: Real bugs found, formatted with severity + steps
+- `exploratory-checklists/`: Lightweight exploratory audits
 
-With 6+ years in quality auditing, trust & safety, and CX operations, I bring both technical precision and a user-first mindset to QA. I believe good testers don't just catch bugs, they anticipate them.
 
 ---
 
