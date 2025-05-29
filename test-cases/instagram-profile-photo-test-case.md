@@ -7,7 +7,7 @@
 
 ---
 
-## 🧾 Preconditions:
+## Preconditions:
 - User has a registered Instagram account
 - User is logged in
 - User has access to a profile photo they want to upload
@@ -15,7 +15,7 @@
 
 ---
 
-## 🧪 Test Steps:
+## Test Steps:
 1. Navigate to [https://www.instagram.com/accounts/login/](https://www.instagram.com/accounts/login/)
 2. Enter the valid username in the “Username” field
 3. Enter the valid password in the “Password” field
@@ -28,15 +28,15 @@
 
 ---
 
-## ✅ Expected Result:
+## Expected Result:
 The profile photo is updated, and the new image is immediately visible on the user’s profile page.
 
 ---
 
-## ❌ Actual Result:
+## Actual Result:
 *Leave blank until tested*
 
 ---
 
-## 🧩 Status:
+## Status:
 *Leave blank until tested — mark as Pass/Fail once completed*
