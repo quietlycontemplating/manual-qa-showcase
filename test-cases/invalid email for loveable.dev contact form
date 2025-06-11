@@ -1,0 +1,35 @@
+# Test Case: Submit with Invalid Email Format
+
+**Test Case ID:** TC-603  
+**Feature:** Contact Form – [loveable.dev]  
+**Test Type:** Validation (Negative Case)  
+**Priority:** Medium  
+**Created by:** Sharnelle Guthrie  
+**Date:** June 11, 2025
+
+---
+
+## Objective  
+To confirm that the form rejects improperly formatted email addresses.
+
+---
+
+## Preconditions  
+- User is on the Contact page
+
+---
+
+## Test Steps
+
+| Step # | Action                                | Expected Result                            |
+|--------|----------------------------------------|--------------------------------------------|
+| 1      | Enter "abc@" in Email field            | Error: "Please enter a valid email address"|
+| 2      | Enter "@gmail.com"                     | Same error message displayed               |
+| 3      | Enter "name@domain..com"               | Same error message displayed               |
+| 4      | Fill remaining fields and click Submit | Form does not submit                       |
+
+---
+
+## Notes  
+- Form should not allow submission with invalid email input
+- Form gives no indication when an error has occurred
