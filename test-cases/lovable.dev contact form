@@ -1,0 +1,37 @@
+# Test Case: Submit Valid Contact Form
+
+**Test Case ID:** TC-601  
+**Feature:** Contact Form – [loveable.dev]  
+**Test Type:** Functional (Positive Case)  
+**Priority:** High  
+**Created by:** Sharnelle Guthrie  
+**Date:** June 11, 2025
+
+---
+
+## Objective  
+To confirm that the contact form submits successfully when all required fields contain valid input.
+
+---
+
+## Preconditions  
+- User is on the Contact page  
+- Contact form fields are visible: Name, Email, Message, Company's website
+
+---
+
+## Test Steps
+
+| Step # | Action                        | Expected Result                        |
+|--------|-------------------------------|----------------------------------------|
+| 1      | Enter valid Name              | Name is accepted                       |
+| 2      | Enter valid Email             | Email is accepted                      |                     
+| 3      | Enter company website URL     | Website URL is accepted                |
+| 3      | Enter a brief message         | Message is accepted                    |
+| 4      | Click Submit                  | Confirmation message is displayed      |
+
+---
+
+## Notes  
+- Success message should appear without page reload
+- Form fields may reset after submission
