@@ -1,0 +1,33 @@
+# Test Case: Email Field Validation
+
+**Test Case ID:** TC-515  
+**Feature:** Login Page – accounts.google.com  
+**Test Type:** Validation (Negative Case)  
+**Priority:** Medium  
+**Created by:** Sharnelle Guthrie  
+**Date:** June 11, 2025
+
+---
+
+## Objective  
+To confirm that the email field only accepts properly formatted email addresses.
+
+---
+
+## Preconditions  
+- User is on the login page
+
+---
+
+## Test Steps
+
+| Step # | Action                          | Expected Result                                  |
+|--------|----------------------------------|--------------------------------------------------|
+| 1      | Enter "abc@" as email input     | Error: "Enter a valid email or phone number"     |
+| 2      | Enter "user@.com"               | Same validation error message displayed          |
+| 3      | Enter "test@@email.com"         | Same validation error message displayed          |
+
+---
+
+## Notes  
+- Consider testing on mobile as well to ensure consistent validation behavior
